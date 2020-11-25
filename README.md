@@ -13,13 +13,13 @@ If you do have one, you may want to load sounds in a much quicker way, because, 
 If you don't, you'll have to have a disquette reader connected to your computer.
 
 # Important notes
-This is coded in ActionScript 3, with the necessary help of Adobe Animate (formerly Flash).  
+This is coded in ActionScript 3, with the necessary help of [Adobe Animate](https://www.adobe.com/cy_en/products/animate.html) (formerly Flash).  
 It needs an [AIR Package](https://helpx.adobe.com/fr/air/kb/archived-air-sdk-version.html) in order to work, at least version 23.  
 
 **[AIR will be discontinued by Adobe](https://blog.adobe.com/en/2019/05/30/the-future-of-adobe-air.html#gs.lrxutd) at the end of 2020**
 
 I made this github repository for people who would like to code it into another language.
 
-#Disclaimer
+# Disclaimer
 I'm not a developper. I made this soft as a challenge, and for sure, it is really badly coded.  
 I can't guarantee anything for this soft. So use it as your own risks.
