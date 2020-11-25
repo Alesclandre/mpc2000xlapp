@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 61
+bin
+*.actionScriptProperties
+*.flexLibProperties
+*.project
+*
+
+END
