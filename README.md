@@ -2,6 +2,12 @@
 If no, this software won't be of any help.  
 If you do have one, you may want to load sounds in a much quicker way, because, you know, loading sounds one by one has never been the easiest way...
 
+# How to install it ?
+1. Download [AIR](https://helpx.adobe.com/fr/air/kb/archived-air-sdk-version.html). Air is no longer supported by Adobe but you can still download their latest version.
+2. Install AIR on your computer. This is needed to make the app work.
+3. Download the [release](https://github.com/Alesclandre/mpc2000xlapp/releases/tag/0.4.3)
+4. Open this release on your computer.
+
 # How does it work ? 
 1. you open the software
 2. You put all the sounds you want your MPC 2000 XL to read (wav and snd files) directly on a pad, which will ventilate all sounds on pads
@@ -12,7 +18,7 @@ If you do have one, you may want to load sounds in a much quicker way, because, 
 **You can change your disquette reader inside the MPC by a SD card reader, which will save you a ton of time**
 If you don't, you'll have to have a disquette reader connected to your computer.
 
-# Important notes
+# Important notes for developpers
 This is coded in ActionScript 3, with the necessary help of [Adobe Animate](https://www.adobe.com/cy_en/products/animate.html) (formerly Flash).  
 It needs an [AIR Package](https://helpx.adobe.com/fr/air/kb/archived-air-sdk-version.html) in order to work, at least version 23.  
 
